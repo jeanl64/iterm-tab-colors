@@ -30,5 +30,8 @@ zgen load jeanl64/iterm-tab-colors
 Installing with [Zinit](https://github.com/zdharma-continuum/zinit). Just add the following line to your `.zshrc`
 ```
 zinit load jeanl64/iterm-tab-colors # Load with tracking (for `zinit report` and `zinit unload`).
+```
+**or**
+```
 zinit light jeanl64/iterm-tab-colors # Load without tracking (faster).
 ```
